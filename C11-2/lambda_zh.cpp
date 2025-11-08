@@ -15,7 +15,7 @@ int main() {
     SetConsoleCP(65001);
 #endif
     
-    std::cout << u8"=== C++11 Lambda 表达式示例 ===\n\n";
+    // std::cout << u8"=== C++11 Lambda 表达式示例 ===\n\n";
 
     // 1. 基本 lambda 表达式
     std::cout << u8"1. 基本 lambda 表达式:\n";
