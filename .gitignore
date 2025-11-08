@@ -1,0 +1,63 @@
+# Compiled binaries and executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib
+
+# Dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.pdb
+*.ilk
+*.exp
+
+# Visual Studio files
+*.vcxproj*
+*.sln
+*.suo
+*.user
+.vs/
+
+# Code::Blocks files
+*.cbp
+*.layout
+*.depend
+
+# Dev-C++ files
+*.dev
+
+# Temporary files
+*~
+*.swp
+*.tmp
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# MinGW generated files
+*.exe.manifest
